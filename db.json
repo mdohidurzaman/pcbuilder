@@ -1,0 +1,344 @@
+{
+  "processors": [
+    {
+      "id": "1",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/bundle-with-pc-intel-10th-gen-comet-lake-core-11624449239.webp",
+      "productName": "Intel 10th Gen Comet Lake Core i5.",
+      "category": "Processor",
+      "price": 18450,
+      "status": "In Stock",
+      "rating": 5
+    },
+
+    {
+      "id": "2",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-10th-gen-comet-lake-core-i5-10400f-11693373172.webp",
+      "productName": "Intel 10th Gen Comet Lake Core i5 10400F 2.90GHz-4.30GHz, 6 Core.",
+      "category": "Processor",
+      "price": 11300,
+      "status": "In Stock",
+      "rating": 4.5
+    },
+    {
+      "id": "3",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/bundle-with-pc-intel-10th-gen-comet-lake-core-11629972351.webp",
+      "productName": "Intel 10th Gen Comet Lake Core i3 10105 desktop Processor.",
+      "category": "Processor",
+      "price": 13500,
+      "status": "In Stock",
+      "rating": 3.5
+    },
+    {
+      "id": "4",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Intel 13th Gen Raptor Lake Core i3 13100 Processor.",
+      "category": "Processor",
+      "price": 16000,
+      "status": "Out Of Stock",
+      "rating": 5
+    },
+    {
+      "id": "5",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i5-13400f-11693815802.webp",
+      "productName": "Intel 13th Gen Raptor Lake Core i5 13400F Processor.",
+      "category": "Processor",
+      "price": 24560,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "6",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/bundle-with-pc-intel-11th-gen-rocket-lake-core-11629273564.webp",
+      "productName": "Intel 11th Gen Rocket Lake Core i5 11400 Desktop Processor.",
+      "category": "Processor",
+      "price": 20070,
+      "status": "In Stock",
+      "rating": 4.5
+    }
+  ],
+
+  "motherboards": [
+    {
+      "id": "1",
+      "image": "https://www.ryanscomputers.com/storage/products/main/afox-b450-ma-v2-ddr4-amd-11691653219.webp",
+      "productName": "Afox B450-MA-V2 DDR4 AMD Motherboard",
+      "category": "Motherboard",
+      "price": 6400,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "image": "https://www.ryanscomputers.com/storage/products/main/biostar-h81mhv3-lga-1150-socket-ddr3-motherboard-11685507407.webp",
+      "productName": "Biostar H81MHV3 LGA 1150 Socket DDR3 Motherboard",
+      "category": "Motherboard",
+      "price": 7900,
+      "status": "Out Of Stock",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "image": "https://www.ryanscomputers.com/storage/products/main/gigabyte-ga-j1800m-d3p-built-in-241ghz-ddr3-11548643979.webp",
+      "productName": "Gigabyte GA-J1800M-D3P Built In 2.41GHz DDR3 Celeron Processor+Motherboard (Combo)",
+      "category": "Motherboard",
+      "price": 8500,
+      "status": "In Stock",
+      "rating": 4.5
+    },
+    {
+      "id": "4",
+      "image": "https://www.ryanscomputers.com/storage/products/main/afox-ih610d4-ma-v2-ddr4-11680938701.webp",
+      "productName": "Afox IH610D4-MA-V2 DDR4 12th/13th gen Intel LGA1700 Socket Motherboard",
+      "category": "Motherboard",
+      "price": 9300,
+      "status": "In Stock",
+      "rating": 5
+    }
+  ],
+  "rams": [
+    {
+      "id": "1",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Netac Basic 4GB DDR4 2666MHz Desktop RAM #NTBSD4P26SP-04",
+      "category": "Ram",
+      "price": 1450,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Twinmos 4GB DDR3 1600 BUS Desktop RAM",
+      "category": "Ram",
+      "price": 1300,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Crucial 4GB DDR4 2666MHz U-DIMM Desktop RAM #CT4G4DFS8266/CB4GU2666.C8HT",
+      "category": "Ram",
+      "price": 1400,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "G.Skill 4GB DDR4 2400MHz Desktop RAM",
+      "category": "Ram",
+      "price": 1500,
+      "status": "In Stock",
+      "rating": 5
+    }
+  ],
+  "ups": [
+    {
+      "id": "1",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Apollo 1065A/1065 650VA Offline UPS with Plastic Body",
+      "category": "UPS",
+      "price": 3200,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Apollo 1120F 1200VA Offline UPS with Plastic Body",
+      "category": "UPS",
+      "price": 6600,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Digital X 650VA Offline UPS with Plastic Body",
+      "category": "UPS",
+      "price": 3200,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Kstar 850VA Offline UPS #KS850VA",
+      "category": "UPS",
+      "price": 3950,
+      "status": "In Stock",
+      "rating": 5
+    }
+  ],
+  "storages": [
+    {
+      "id": "1",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Toshiba P300 2TB 3.5 Inch SATA 7200RPM Desktop HDD #HDWD320UZSVA",
+      "category": "Storage",
+      "price": 6300,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Western Digital Blue 7200RPM 1TB Desktop Hard disk #WD10EZEX",
+      "category": "Storage",
+      "price": 4500,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Seagate Barracuda 7200RPM 1TB Desktop Hard disk #ST1000DM010",
+      "category": "Storage",
+      "price": 3900,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Seagate Barracuda35 5400RPM 1TB Laptop Hard disk #ST1000LM048",
+      "category": "Storage",
+      "price": 5500,
+      "status": "In Stock",
+      "rating": 5
+    }
+  ],
+  "Monitors": [
+    {
+      "id": "1",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "HP M22F 21.5 Inch FHD IPS Monitor #2E2Y3AA/2D9J9AS",
+      "category": "Monitor",
+      "price": 14500,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "LG 22MP410-B 21.45 Inch FHD VA HDMI VGA Black Monitor",
+      "category": "Monitor",
+      "price": 12500,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Asus VP247HAE 23.6 inch FHD HDMI, VGA Eye Care Monitor",
+      "category": "Monitor",
+      "price": 18100,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor #61E0KAR6WW/65F9KCC6SA/66A0KAC6IN",
+      "category": "Monitor",
+      "price": 8500,
+      "status": "In Stock",
+      "rating": 5
+    }
+  ],
+  "Others": [
+    {
+      "id": "1",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "A4TECH FK11 Grey USB FN-Hotkeys Multimedia Mini Keyboard with Bangla",
+      "category": "Others",
+      "price": 850,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Asus GeForce GT 730 2GB GDDR5 Graphics Card #GT730-4H-SL-2GD5",
+      "category": "Others",
+      "price": 13000,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Value Top VT-S200B Plus Real 200W PSU",
+      "category": "Others",
+      "price": 1300,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Fantech T533 Wired Black Mouse",
+      "category": "Others",
+      "price": 300,
+      "status": "In Stock",
+      "rating": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/bundle-with-pc-intel-10th-gen-comet-lake-core-11624449239.webp",
+      "productName": "Intel 10th Gen Comet Lake Core i5.",
+      "category": "Processor",
+      "price": 18450,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "image": "https://www.ryanscomputers.com/storage/products/main/gigabyte-ga-j1800m-d3p-built-in-241ghz-ddr3-11548643979.webp",
+      "productName": "Gigabyte GA-J1800M-D3P Built In 2.41GHz DDR3 Celeron Processor+Motherboard (Combo)",
+      "category": "Motherboard",
+      "price": 6400,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Netac Basic 4GB DDR4 2666MHz Desktop RAM #NTBSD4P26SP-04",
+      "category": "Ram",
+      "price": 1450,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Apollo 1065A/1065 650VA Offline UPS with Plastic Body",
+      "category": "UPS",
+      "price": 3200,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "5",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "Toshiba P300 2TB 3.5 Inch SATA 7200RPM Desktop HDD #HDWD320UZSVA",
+      "category": "Storage",
+      "price": 6300,
+      "status": "In Stock",
+      "rating": 5
+    },
+    {
+      "id": "6",
+      "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/intel-13th-gen-raptor-lake-core-i3-13100-11673700515.webp",
+      "productName": "HP M22F 21.5 Inch FHD IPS Monitor #2E2Y3AA/2D9J9AS",
+      "category": "Monitor",
+      "price": 14500,
+      "status": "In Stock",
+      "rating": 5
+    }
+  ]
+}

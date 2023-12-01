@@ -1,26 +1,23 @@
 import RootLayout from "@/components/Layout/RootLayout";
 import Banner from "@/components/UI/Banner";
-import FeaturedProduct from "@/components/UI/FeaturedProduct";
-import AllCategories from "@/components/UI/AllCategories";
-import React from "react";
+import Processors from "@/components/UI/Processors";
 
-const Home = ({ tools }) => {
+const Processor = ({ processors }) => {
   return (
     <>
       <Banner />
-      <AllCategories tools={tools} />
-      <FeaturedProduct />
+      <Processors processors={processors} />
     </>
   );
 };
 
-export default Home;
+export default Processor;
 
-Home.getLayout = function getLayout(page) {
+Processor.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
 };
 
-//SSG => Static Site Generation
+//SSG => Statics Site Generation
 
 export const getStaticProps = async () => {
   const res = await fetch("http://localhost:5000/processors");
@@ -28,7 +25,7 @@ export const getStaticProps = async () => {
 
   return {
     props: {
-      tools: data,
+      processors: data,
     },
     revalidate: 10,
   };
